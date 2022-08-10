@@ -28,7 +28,5 @@ https://stackoverflow.com/questions/66586352/referenceerror-globalthis-is-not-de
 
 이후 다시 테스트를 돌렸을 때 globalThis 문제가 뜨지 않고 다 성공적으로 동작했다.
 
-
-
 ## 정리
-그냥 node 버전을 올려줬다. 이래서 도커를 사용하는 것 같다.
+그냥 node 버전을 올려줬다. 이래서 도커를 사용하는 것 같다. node 버전을 올리는 것 말고도 다른 방법이 있지만 마침 node 버전을 슬슬 올리자는 이야기가 나오고 있었기 때문에 해당 방법을 선택했다.
