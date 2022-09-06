@@ -16,5 +16,5 @@
 
 ---
 
-[^1] https://stackoverflow.com/questions/68886634/mongorestore-4-2-decreases-the-restored-database-sizes-to-half
+[^1] https://stackoverflow.com/questions/68886634/mongorestore-4-2-decreases-the-restored-database-sizes-to-half<br>
 [^2] https://serverfault.com/questions/993995/mongo-restore-command-reduces-database-size
